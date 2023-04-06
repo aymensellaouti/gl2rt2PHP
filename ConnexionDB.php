@@ -1,7 +1,7 @@
 <?php
 class ConnexionDB
 {
-    private static $_dbname = "ref9";
+    private static $_dbname = "gl2g2";
     private static $_user = "root";
     private static $_pwd = "";
     private static $_host = "localhost";
